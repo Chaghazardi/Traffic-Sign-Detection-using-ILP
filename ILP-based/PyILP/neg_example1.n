@@ -1,0 +1,14 @@
+traffic_sign(n1, stop).
+traffic_sign(n2, stop).
+traffic_sign(n4, stop).
+traffic_sign(n5, stop).
+
+traffic_sign(n6, stop).
+traffic_sign(n7, stop).
+traffic_sign(n8, stop).
+traffic_sign(n9, stop).
+traffic_sign(n10, stop).
+traffic_sign(n11, stop).
+
+
+
